@@ -1,0 +1,12 @@
+[submodule "lib/opendap"]
+	path = lib/opendap
+	url = https://github.com/Wren6991/OpenDAP.git
+[submodule "lib/libfpga"]
+	path = lib/libfpga
+	url = https://github.com/Wren6991/libfpga.git
+[submodule "lib/hazard3"]
+	path = lib/hazard3
+	url = https://github.com/Wren6991/Hazard3.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/Wren6991/fpgascripts.git
